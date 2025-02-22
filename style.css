@@ -1,9 +1,9 @@
 .hero {
-    height: 150vh;
     display: flex;
     align-items: center;
     text-align: center;
     color: white;
+    overflow:hidden;
 }
 
 .hero-overlay {
